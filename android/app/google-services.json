@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796090546632",
+    "project_id": "ppe-smart-heater",
+    "storage_bucket": "ppe-smart-heater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796090546632:android:371564ca1262bcbef368fd",
+        "android_client_info": {
+          "package_name": "com.example.ppe2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796090546632-b0c29del5tokfmh540fkrnosba2jfpik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEMeLgNfhIP0owccvQ7z6cMMx83H4CTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796090546632-b0c29del5tokfmh540fkrnosba2jfpik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
